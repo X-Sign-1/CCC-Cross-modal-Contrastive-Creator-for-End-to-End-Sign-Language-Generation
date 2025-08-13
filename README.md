@@ -2,6 +2,8 @@
 
 This is the project homepage for the paper "CCC: Cross-modal Contrastive Creator for End-to-End Sign Language Generation". On this homepage, we provide the code used in the paper and a demonstration of the sign language generation results.
 
+We’re working on many fronts right now, so progress on open-sourcing has been slower. Please keep an eye on this project—we’ll organize and release the code gradually.
+
 To view the sign language generation demo, please visit:
 https://pretty-natural-satyr.ngrok-free.app
 
